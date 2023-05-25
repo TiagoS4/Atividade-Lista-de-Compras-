@@ -1,0 +1,17 @@
+[{
+  "id": 1,
+  "task": "Pão",
+  "complete": false
+}, {
+  "id": 2,
+  "task": "Queijo",
+  "complete": false
+}, {
+  "id": 3,
+  "task": "Presunto",
+  "complete": false
+}, {
+  "id": 4,
+  "task": "Refrigerante",
+  "complete": false
+}]
